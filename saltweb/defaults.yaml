@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+saltweb:
+  pkg: saltweb
+  config: '/etc/saltweb'
+  service:
+    name: saltweb
